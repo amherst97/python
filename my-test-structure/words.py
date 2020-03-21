@@ -3,7 +3,7 @@
 Test docstring
 """
 
-
+import sys
 from urllib.request import urlopen
 from package1 import module1
 from package2 import module2
@@ -23,6 +23,7 @@ def fetch_words():
 
 
 if __name__ == '__main__':
+    print(sys.path)
     module1.function1()
     module2.function2()
     module3.function3()

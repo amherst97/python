@@ -1,0 +1,12 @@
+root - DEBUG - This is a debug message debug
+root - INFO - This is a info message
+root - WARNING - This is a warning message
+root - ERROR - This is a error message
+root - CRITICAL - This is a critical message
+root - INFO - this is a test for Dansong 
+root - ERROR - Exception
+Traceback (most recent call last):
+  File "C:/dev/python/my-calculate-pi/my-logging-test.py", line 25, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
+__main__ - INFO - my logger info
