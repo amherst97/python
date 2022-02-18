@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55121d05-9d70-4e60-a56a-8c6b93177fed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../my-ml-test/.idea/my-ml-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-ml-test/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-ml-test/house_price_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-plot-test/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-plot-test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-plot-test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-plot-test/.idea/my-plot-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-plot-test/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-plot-test/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-plot-test/simpletest1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-problem-generator/my-problem-generator/create_2var_equation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-problem-generator/my-problem-generator/result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-remote-test/filewatcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-test-web/my-test-web/flighttest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-test-web/my-test-web/generatortest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-cashflow-calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-cashflow-calculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-cashflow-calculator/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-cashflow-calculator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-problem-generator/my-problem-generator/create_translation_question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-problem-generator/my-problem-generator/translation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-problem-generator/result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-plot-test/simpletest1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my-plot-test/simpletest1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-problem-generator/.idea/my-problem-generator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-problem-generator/.idea/my-problem-generator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-problem-generator/my-problem-generator/create_2var_equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my-problem-generator/my-problem-generator/create_2var_equation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-problem-generator/my-problem-generator/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../my-problem-generator/my-problem-generator/result.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/my-test-structure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-test-structure.iml" afterDir="false" />
@@ -87,7 +83,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-problem-generator" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.create_2var_equation">
+  <component name="RunManager" selected="Python.create_translation_question">
     <configuration name="create_2var_equation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my-problem-generator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +97,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../my-problem-generator/my-problem-generator/create_2var_equation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_translation_question" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my-problem-generator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../my-problem-generator/my-problem-generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../my-problem-generator/my-problem-generator/create_translation_question.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,27 +168,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simpleserver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my-test-web" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../my-test-web/my-test-web" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../my-test-web/my-test-web/simpleserver.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="simpletest1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my-plot-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.create_translation_question" />
         <item itemvalue="Python.create_2var_equation" />
         <item itemvalue="Python.simpletest1" />
         <item itemvalue="Python.filewatcher" />
         <item itemvalue="Python.generatortest" />
-        <item itemvalue="Python.simpleserver" />
       </list>
     </recent_temporary>
   </component>
@@ -332,8 +328,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../my-plot-test/simpletest1.py</url>
-          <line>35</line>
+          <line>36</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../my-problem-generator/my-problem-generator/create_translation_question.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

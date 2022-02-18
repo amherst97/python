@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../my-cashflow-calculator/.idea/my-cashflow-calculator.iml" filepath="$PROJECT_DIR$/../my-cashflow-calculator/.idea/my-cashflow-calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/../my-ml-test/.idea/my-ml-test.iml" filepath="$PROJECT_DIR$/../my-ml-test/.idea/my-ml-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../my-plot-test/.idea/my-plot-test.iml" filepath="$PROJECT_DIR$/../my-plot-test/.idea/my-plot-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../my-problem-generator/.idea/my-problem-generator.iml" filepath="$PROJECT_DIR$/../my-problem-generator/.idea/my-problem-generator.iml" />

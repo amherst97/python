@@ -9,5 +9,6 @@
     <orderEntry type="module" module-name="my-plot-test" />
     <orderEntry type="module" module-name="my-remote-test" />
     <orderEntry type="module" module-name="my-problem-generator" />
+    <orderEntry type="module" module-name="my-cashflow-calculator" />
   </component>
 </module>

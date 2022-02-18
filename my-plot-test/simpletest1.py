@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas
 
+
 def my_plotter(ax, data1, data2, param_dict):
     """
     A helper function to make a graph
@@ -29,8 +30,8 @@ def my_plotter(ax, data1, data2, param_dict):
     return out
 
 
-x = np.linspace(0, 2, 100)  # Sample data.
-print(x)
+x = np.linspace(0, 2, 200)  # Sample data.
+print(x, x.size)
 
 # Note that even in the OO-style, we use `.pyplot.figure` to create the figure.
 fig, ax = plt.subplots()  # Create a figure and an axes.

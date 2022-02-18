@@ -53,7 +53,7 @@ if __name__ == "__main__":
     count = 0
     with open('result.txt', 'w') as f:
         while count < total:
-            if generate_equation(-10, 10, f):
+            if generate_equation(-8, 8, f):
                 print('========================')
                 print('========================', file=f)
                 count = count + 1
