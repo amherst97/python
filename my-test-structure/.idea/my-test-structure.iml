@@ -10,5 +10,7 @@
     <orderEntry type="module" module-name="my-remote-test" />
     <orderEntry type="module" module-name="my-problem-generator" />
     <orderEntry type="module" module-name="my-cashflow-calculator" />
+    <orderEntry type="module" module-name="bank-table-recon" />
+    <orderEntry type="module" module-name="bank-data-recon" />
   </component>
 </module>
