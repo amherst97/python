@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55121d05-9d70-4e60-a56a-8c6b93177fed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bank-data-recon/exact.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankTableRecon/.idea/bank-table-recon.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankTableRecon/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankTableRecon/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankTableRecon/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bank-data-recon/NewTables.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../bank-data-recon/NewTables.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bank-data-recon/OldTables.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../bank-data-recon/OldTables.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bank-data-recon/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../bank-data-recon/unique.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bank-data-recon/recon.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bank-data-recon/recon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
