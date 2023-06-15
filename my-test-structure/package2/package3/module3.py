@@ -1,3 +1,6 @@
+'''
+Try out python arbitrary position and keyword arguments
+'''
 def function3():
     print('Calling function3')
 
